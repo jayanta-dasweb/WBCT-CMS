@@ -1,0 +1,8 @@
+body{
+    box-sizing: border-box;
+}
+
+#cardBodyTable{
+    max-height: 26.5625rem;
+    overflow-y: auto !important;
+}

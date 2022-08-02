@@ -1,0 +1,3 @@
+#remove php file extension-e.g.
+RewriteEngine on
+Header set Access-Control-Allow-Origin *

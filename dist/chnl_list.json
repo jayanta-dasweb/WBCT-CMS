@@ -1,0 +1,237 @@
+[
+    {
+        "id":"1",
+        "name":"Aaj Tak",
+        "url":"Aaj_tak.jpg",
+        "amount":"6"
+    },
+    {
+        "id":"2",
+        "name":"ABP News",
+        "url":"abp_news.jpg",
+        "amount":"8"
+    },
+    {
+        "id":"3",
+        "name":"Animax India",
+        "url":"animax_india.jpg",
+        "amount":"12"
+    },
+    {
+        "id":"4",
+        "name":"BBC World News",
+        "url":"bbc_world_news.jpg",
+        "amount":"21"
+    },
+    {
+        "id":"5",
+        "name":"CNN News18",
+        "url":"cnn-news18.jpg",
+        "amount":"20"
+    },
+    {
+        "id":"6",
+        "name":"Colors Tv",
+        "url":"colors_tv.jpg",
+        "amount":"21"
+    },
+    {
+        "id":"7",
+        "name":"DD Sports",
+        "url":"dd_sports.jpg",
+        "amount":"19"
+    },
+    {
+        "id":"8",
+        "name":"DD News",
+        "url":"dd-news.jpg",
+        "amount":"16"
+    },
+    {
+        "id":"9",
+        "name":"Discovery",
+        "url":"discovery.jpg",
+        "amount":"6"
+    },
+    {
+        "id":"10",
+        "name":"Disney",
+        "url":"disney.jpg",
+        "amount":"10"
+    },
+    {
+        "id":"11",
+        "name":"DY365",
+        "url":"dy365.jpg",
+        "amount":"16"
+    },
+    {
+        "id":"12",
+        "name":"Hungama TV",
+        "url":"hungama_tv.jpg",
+        "amount":"5"
+    },
+    {
+        "id":"13",
+        "name":"India TV",
+        "url":"india-tv.jpg",
+        "amount":"10"
+    },
+    {
+        "id":"14",
+        "name":"NDTV India",
+        "url":"ndtv_india.jpg",
+        "amount":"9"
+    },
+    {
+        "id":"15",
+        "name":"News Live",
+        "url":" news_live.jpg",
+        "amount":"20"
+    },
+    {
+        "id":"16",
+        "name":"News18 India",
+        "url":"news18_india.jpg",
+        "amount":"19"
+    },
+    {
+        "id":"17",
+        "name":"Nickelodeon",
+        "url":"nickelodeon.jpg",
+        "amount":"14"
+    },
+    {
+        "id":"18",
+        "name":"Pogo",
+        "url":"pogo.jpg",
+        "amount":"11"
+    },
+    {
+        "id":"19",
+        "name":"Republic TV",
+        "url":"republic_tv.jpg",
+        "amount":"16"
+    },
+    {
+        "id":"20",
+        "name":"Sony Enterainment TV",
+        "url":"sony_enterainment_tv.jpg",
+        "amount":"6"
+    },
+    {
+        "id":"21",
+        "name":"Sony Espn",
+        "url":"sony_espn.jpg",
+        "amount":"8"
+    },
+    {
+        "id":"22",
+        "name":"Sony Espn HD",
+        "url":"sony_espn_hd.jpg",
+        "amount":"10"
+    },
+    {
+        "id":"23",
+        "name":"Sony Sab",
+        "url":"sony_sab.jpg",
+        "amount":"9"
+    },
+    {
+        "id":"24",
+        "name":"Sony Six",
+        "url":"sony_six.jpg",
+        "amount":"10"
+    },
+    {
+        "id":"25",
+        "name":"Sony Ten 1",
+        "url":"sony_ten_1.jpg",
+        "amount":"8"
+    },
+    {
+        "id":"26",
+        "name":"Sony Ten 2",
+        "url":"sony_ten_2.jpg",
+        "amount":"12"
+    },
+    {
+        "id":"27",
+        "name":"Sony Ten 2 HD",
+        "url":"sony_ten_2_hd.jpg",
+        "amount":"18"
+    },
+    {
+        "id":"28",
+        "name":"Sony Ten 3 HD",
+        "url":"sony_ten_3_hd.jpg",
+        "amount":"20"
+    },
+    {
+        "id":"29",
+        "name":"Sony Ten 3",
+        "url":"sony-ten-3.jpg",
+        "amount":"13"
+    },
+    {
+        "id":"30",
+        "name":"Star Plus",
+        "url":"star_plus.jpg",
+        "amount":"2"
+    },
+    {
+        "id":"31",
+        "name":"Star Sports",
+        "url":"star_sports.jpg",
+        "amount":"3"
+    },
+    {
+        "id":"32",
+        "name":"Zee News",
+        "url":"zee-news.jpg",
+        "amount":"9"
+    },
+    {
+        "id":"33",
+        "name":"Star Vijay",
+        "url":"star_vijay-01.jpg",
+        "amount":"6"
+    },
+    {
+        "id":"34",
+        "name":"Sun TV",
+        "url":"sun_tv.jpg",
+        "amount":"10"
+    },
+    {
+        "id":"35",
+        "name":"Times Now",
+        "url":"times_now.jpg",
+        "amount":"18"
+    },
+    {
+        "id":"36",
+        "name":"TLC",
+        "url":"tlc.jpg",
+        "amount":"13"
+    },
+    {
+        "id":"37",
+        "name":"Toon Disney",
+        "url":"toon_disney.jpg",
+        "amount":"5"
+    },
+    {
+        "id":"38",
+        "name":"Zee Cinema",
+        "url":"zee_cinema.jpg",
+        "amount":"8"
+    },
+    {
+        "id":"39",
+        "name":"Zee TV",
+        "url":"zee_tv.jpg",
+        "amount":"3"
+    }
+    
+]

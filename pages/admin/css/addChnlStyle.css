@@ -1,0 +1,71 @@
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    float: left;
+    box-shadow: 1px 2px 3px gray;
+    cursor: pointer;
+}
+
+#mainbox {
+    max-height: 200px;
+    overflow-y: scroll;
+    width: 91%;
+    border: 1px solid gray;
+    /* box-shadow: inset 1px 2px gray; */
+}
+
+#mainbox1 {
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid gray;
+}
+
+.chkbx {
+    width: 10px;
+    height: 10px;
+    z-index: 999;
+    visibility: hidden;
+}
+
+#subBox {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+
+}
+
+#subBox2 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+#chnlLogo {
+    width: 73px;
+    margin-top: -24px;
+    z-index: 99;
+}
+
+#chnlLogo2 {
+    width: 73px;
+}
+
+.select-chnl-btn {
+    width: 16rem;
+    height: 3rem;
+    border: .0625rem solid black;
+}
+
+.dataShowAfterSelect{
+    visibility: hidden;
+}
